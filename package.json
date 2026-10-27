@@ -1,0 +1,10 @@
+{
+  "name": "flowers-websites",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix flowers-web-ui",
+    "build": "npm run build --prefix flowers-web-ui",
+    "preview": "npm run preview --prefix flowers-web-ui"
+  }
+}
